@@ -1,0 +1,5 @@
+# Copyright (C) Nitrokey GmbH
+# SPDX-License-Identifier: Unlicense
+
+list-credentials
+list-devices
